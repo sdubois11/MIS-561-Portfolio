@@ -10,3 +10,11 @@ One thing I would change about this assignment would likely be the use of a some
 
 https://public.tableau.com/app/profile/sean.dubois/viz/SeanDuBoisFlex3-AdvancinginExcelandTableau-PT1/ExploratoryDashboard#2
 
+
+**Southwest Office Solutions: Account Profitability and Service Tiers**
+
+Here I analyzed account profitability at Southwest Office Solutions, where Marcus Reyes, VP of Sales, will use it to decide which one change to make in the FY2026 account service policy: how accounts are tiered, what it costs to serve them, or how Southwest discounts.  My analysis found that accounts with an average discount of 20% or more lost $67,756 after cost to serve, so I recommended capping discounts at 20%.
+
+One thing I would change about this assignment is how I measured discounts.  I used the simple average of each account's discounts, and a revenue-weighted average would be more accurate. I would also test different cutoffs, like 15% and 25%, to make sure the 20% cap holds up.
+
+https://public.tableau.com/views/SouthwestOfficeSolutionsAccountProfitabilityandServiceTiers/AccountPortfolioDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link

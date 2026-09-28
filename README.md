@@ -24,3 +24,5 @@ https://public.tableau.com/views/SouthwestOfficeSolutionsAccountProfitabilityand
 Reflecting on my past visualizations in Flex 3 and 4, before importing my data into Tableau, I used XLOOKUP to pull customer details from my Customers sheet into my Orders sheet by matching on CustomerID. In Power BI, I skipped that step: when I loaded the taxi data, it detected that the tables shared a matching column and created the relationship on its own, so I could chart fields from both tables without first building a combined sheet. Next time I would use Power BI for this task, because a relationship stays correct when the data changes, while my XLOOKUP columns had to be filled down and rechecked every time rows were added. For a quick one-time lookup, I'd still use Excel, since writing one formula is faster than setting up a data model.
 Check out my certificate in the **Certificates** folder, or click on this link that will lead you to my Tableau page!
 
+https://public.tableau.com/views/SeanDuBoissDatacampIntroductiontoPowerBICertificate/CertificateStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+

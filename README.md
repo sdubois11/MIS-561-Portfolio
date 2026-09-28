@@ -18,3 +18,8 @@ Here I analyzed account profitability at Southwest Office Solutions, where Marcu
 One thing I would change about this assignment is how I measured discounts.  I used the simple average of each account's discounts, and a revenue-weighted average would be more accurate. I would also test different cutoffs, like 15% and 25%, to make sure the 20% cap holds up.
 
 https://public.tableau.com/views/SouthwestOfficeSolutionsAccountProfitabilityandServiceTiers/AccountPortfolioDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+# Update:  Certifications Have been moved to /Ceritificates
+**Datacamp Introduction to PowerBI**
+This past week, I had the opportunity to lean about PowerBI through an interactive Datacamp course.  The course taught me some of the essentials of PowerBi from manipulating data to create impactful dashboards for others to learn from.  I cannot wait to learn more!  Check out my certificate here in the **Certificates** folder, or click on this link that will lead you to my Tableau page!
+

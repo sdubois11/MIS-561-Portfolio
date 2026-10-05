@@ -20,9 +20,13 @@ One thing I would change about this assignment is how I measured discounts.  I u
 https://public.tableau.com/views/SouthwestOfficeSolutionsAccountProfitabilityandServiceTiers/AccountPortfolioDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ### Update:  Certifications Have been moved to /Ceritificates
-**Datacamp Introduction to PowerBI**
+**Datacamp Introduction to PowerBI (09/29/2026)**
 Reflecting on my past visualizations in Flex 3 and 4, before importing my data into Tableau, I used XLOOKUP to pull customer details from my Customers sheet into my Orders sheet by matching on CustomerID. In Power BI, I skipped that step: when I loaded the taxi data, it detected that the tables shared a matching column and created the relationship on its own, so I could chart fields from both tables without first building a combined sheet. Next time I would use Power BI for this task, because a relationship stays correct when the data changes, while my XLOOKUP columns had to be filled down and rechecked every time rows were added. For a quick one-time lookup, I'd still use Excel, since writing one formula is faster than setting up a data model.
 Check out my certificate in the **Certificates** folder, or click on this link that will lead you to my Tableau page!
 
 https://public.tableau.com/views/SeanDuBoissDatacampIntroductiontoPowerBICertificate/CertificateStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+**Datacamp Data Visualization in PowerBI (10/05/2026)**
+In my account profitability analysis, I calculated each account's average discount rate by dividing its total discount dollars by its gross revenue before discount, and I used that number to find the accounts at or above 20% that lost money after cost to serve. In Power BI, I would build this as a measure instead of a fixed column in the data, because a discount rate has to be recalculated for whatever group of accounts you are looking at. If it were a fixed column, filtering to Managed accounts or a single quarter would add up or average each account's percentage, which gives you the wrong rate for that group. As a measure, it divides total discount by total revenue for exactly the accounts on your screen. That means you can filter by tier, region, or quarter during a meeting and see right away which accounts cross 20%, without waiting for me to rebuild the workbook, and everyone on your team sees the same number because it comes from one shared definition.
+Check out my certificate in the **Certificates** folder, or click on this link that will lead you to my Tableau page!
 

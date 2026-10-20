@@ -42,3 +42,8 @@ Check out my certificate in the **Certificates** folder, or click on this link t
 
 https://public.tableau.com/app/profile/sean.dubois/viz/SeanDuBoissDatacampCertificates/CertificateIntroductiontoPowerBI?publish=yes
 
+**Bear Down Bank Card Portfolio: Contactless Readiness**
+
+https://public.tableau.com/views/CardPortfolio_17924614496280/ExploratoryDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+

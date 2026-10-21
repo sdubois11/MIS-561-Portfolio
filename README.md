@@ -43,6 +43,9 @@ Check out my certificate in the **Certificates** folder, or click on this link t
 https://public.tableau.com/app/profile/sean.dubois/viz/SeanDuBoissDatacampCertificates/CertificateIntroductiontoPowerBI?publish=yes
 
 **Bear Down Bank Card Portfolio: Contactless Readiness**
+Advancing in Excel and Tableau - Pt. 3, Customer's Non-Contactless Credit, Debit, and Pre-Paid Debit cards are expiring soon and a count of them is needed to place an early replacement batch as soon as possible.
+
+If I were to redo this assignment, I would start earlier and review it a few times to make sure I understand the information 100%. 
 
 https://public.tableau.com/views/CardPortfolio_17924614496280/ExploratoryDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 

@@ -49,4 +49,11 @@ If I were to redo this assignment, I would start earlier and review it a few tim
 
 https://public.tableau.com/views/CardPortfolio_17924614496280/ExploratoryDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+**Card Growth Analysis – Wildcat Rewards Offer**
+Advancing in Excel and Tableau - Pt. 4, Which group of existing Bear Down Bank customers should receive the Wildcat Rewards pilot mailing, and how many of them qualify under Credit Risk’s guardrails at the 670 FICO cutoff?
+
+If I were to redo this assignment,  I would create more measures in order to get more specific information about every generation and possibley target by generation as opposed to the amount of potential customers in each state.
+
+https://public.tableau.com/views/CardGrowthAnalysisWildcatRewardsOffer_17929864815560/ExploratoryDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 

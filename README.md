@@ -56,4 +56,14 @@ If I were to redo this assignment,  I would create more measures in order to get
 
 https://public.tableau.com/views/CardGrowthAnalysisWildcatRewardsOffer_17929864815560/ExploratoryDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+**Data Storytelling with Adobe Express (11/02/2026)**
+
+Work sample for Jordan Ellis, VP of Card Growth at Bear Down Bank: send the Wildcat Rewards pilot mailing to Gen X customers in Texas, where 24 customers already qualify.
+
+[[Work sample (PDF)](https://github.com/sdubois11/MIS-561-Portfolio/blob/main/adobe/dubois-data-storytelling.pdf)]· [[Adobe Express](https://new.express.adobe.com/id/urn:aaid:sc:VA6C2:efcf2ba0-75ba-4db6-bcea-79f7764cae90?accept=true&invite=true&promoid=Z2G1FQKR&mv=other)]
+
+Design choice: I charted eligible customers by generation instead of eligibility rate, because Jordan needs a group large enough to test, and on a rate chart the tallest bar was Silent, with only 6 customers.  I removed the outlined boxes around all four numbers in the summary strip; with only the 24 boxed in navy, the eye goes straight from the recommendation to the matching Gen X bar.
+
+Training completed: 11/02/2026
+
 

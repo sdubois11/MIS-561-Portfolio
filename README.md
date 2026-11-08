@@ -66,4 +66,15 @@ Design choice: I charted eligible customers by generation instead of eligibility
 
 Training completed: 11/02/2026
 
+**Product Pitch with Generative AI in Adobe Express (11/7/2026)**
+
+Pitch to Jordan Ellis, VP of Card Growth at Bear Down Bank: approve a six-week first phase to mail the Wildcat Rewards pilot to Texas Gen X customers and measure the response.
+
+[Pitch deck (PDF)](https://github.com/sdubois11/MIS-561-Portfolio/blob/main/adobe/dubois-product-pitch.pdf) · [Adobe Express](https://new.express.adobe.com/id/urn:aaid:sc:VA6C2:0feae789-29c8-5b46-8abb-618c667d66e3?accept=true&invite=true&promoid=Z2G1FQKR&mv=other)
+
+Toughest objection: "Twenty-four customers can't prove anything, and there's no success measure yet." Slide 6 answers it: Phase 1 proposes the measure up front (the share of the 24 who apply within four weeks of mailing) and has the next wave of 44 qualified Texas customers ready, so the pilot is a first step, not the whole test.
+
+AI use: Claude (Opus 5.5), Anthropic, 11/7/2026: feedback on slide layout and wording, and drafting slide titles and text. Claude (Haiku 5.5), Anthropic, 11/7/2026: objection test on the draft deck. Adobe Firefly 4 in Adobe Express, 11/7/2026: practice image during the guided build; not used in the deck.
+
+Training completed: 11/7/2026
 
